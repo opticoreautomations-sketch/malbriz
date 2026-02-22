@@ -1,0 +1,5 @@
+{
+  "name": "Malbriz Fusion",
+  "description": "A refined fusion dining experience in Riyadh, blending global flavors with local hospitality.",
+  "requestFramePermissions": ["geolocation"]
+}
